@@ -1,0 +1,141 @@
+user_id,fecha_compra,hora_compra,producto,categoria,precio,cantidad,total,pais,ciudad,region,metodo_pago,session_id,duracion_sesion_min,dispositivo,navegador,sistema_operativo,fuente_trafico,descuento_aplicado
+USR001,2024-01-15,14:23:45,Laptop Dell XPS 13,Electrónica,1299.99,1,1299.99,Colombia,Bogotá,Bogota D.C.,Tarjeta Crédito,SES001,45,Desktop,Chrome,Windows,Google Ads,0
+USR002,2024-01-15,16:47:12,Mouse Logitech MX,Accesorios,79.99,2,159.98,Colombia,Medellín,Antioquia,PayPal,SES002,23,Mobile,Safari,iOS,Orgánico,10
+USR003,2024-01-16,09:12:33,Teclado Mecánico RGB,Accesorios,149.99,1,149.99,Colombia,Cali,Valle del Cauca,Tarjeta Débito,SES003,67,Desktop,Firefox,Linux,Email Marketing,0
+USR001,2024-01-16,11:34:56,Monitor LG 27 4K,Electrónica,449.99,1,449.99,Colombia,Bogotá,Bogota D.C.,Tarjeta Crédito,SES004,34,Desktop,Chrome,Windows,Directo,15
+USR004,2024-01-17,13:45:22,Audífonos Sony WH-1000XM4,Audio,349.99,1,349.99,México,Ciudad de México,CDMX,Transferencia,SES005,56,Mobile,Chrome,Android,Redes Sociales,0
+USR005,2024-01-17,15:23:11,Webcam Logitech C920,Accesorios,89.99,1,89.99,España,Madrid,Comunidad de Madrid,Tarjeta Crédito,SES006,28,Desktop,Edge,Windows,Google Ads,5
+USR006,2024-01-18,10:15:47,SSD Samsung 1TB,Almacenamiento,119.99,2,239.98,Argentina,Buenos Aires,Buenos Aires,PayPal,SES007,41,Tablet,Safari,iOS,Orgánico,0
+USR002,2024-01-18,17:56:34,Cable HDMI 2.1,Accesorios,24.99,3,74.97,Colombia,Medellín,Antioquia,Tarjeta Crédito,SES008,15,Mobile,Safari,iOS,Email Marketing,0
+USR007,2024-01-19,08:45:19,MacBook Pro M2,Electrónica,2499.99,1,2499.99,Chile,Santiago,Región Metropolitana,Tarjeta Crédito,SES009,89,Desktop,Safari,macOS,Directo,0
+USR008,2024-01-19,12:33:28,iPad Air,Tablets,599.99,1,599.99,Perú,Lima,Lima,Transferencia,SES010,52,Mobile,Chrome,iOS,Google Ads,20
+USR003,2024-01-20,14:22:15,Mouse Pad XXL Gaming,Accesorios,29.99,1,29.99,Colombia,Cali,Valle del Cauca,PayPal,SES011,19,Desktop,Firefox,Linux,Orgánico,0
+USR009,2024-01-20,16:11:44,Impresora HP LaserJet,Oficina,299.99,1,299.99,Colombia,Barranquilla,Atlántico,Tarjeta Débito,SES012,43,Desktop,Chrome,Windows,Redes Sociales,10
+USR010,2024-01-21,09:37:52,Router TP-Link AX3000,Redes,129.99,1,129.99,Ecuador,Quito,Pichincha,Tarjeta Crédito,SES013,31,Mobile,Firefox,Android,Email Marketing,0
+USR004,2024-01-21,11:28:16,Micrófono Blue Yeti,Audio,129.99,1,129.99,México,Guadalajara,Jalisco,PayPal,SES014,47,Desktop,Chrome,Windows,Directo,5
+USR011,2024-01-22,13:15:33,Disco Duro Externo 2TB,Almacenamiento,89.99,1,89.99,Colombia,Bogotá,Bogota D.C.,Tarjeta Crédito,SES015,25,Desktop,Edge,Windows,Google Ads,0
+USR012,2024-01-22,15:44:29,Lámpara LED Escritorio,Iluminación,39.99,2,79.98,Venezuela,Caracas,Distrito Capital,Transferencia,SES016,36,Mobile,Chrome,Android,Orgánico,15
+USR005,2024-01-23,10:52:18,Silla Gaming Ergonómica,Muebles,349.99,1,349.99,España,Barcelona,Cataluña,Tarjeta Débito,SES017,68,Desktop,Chrome,Windows,Redes Sociales,0
+USR013,2024-01-23,14:27:41,Cámara Canon EOS R50,Fotografía,899.99,1,899.99,Uruguay,Montevideo,Montevideo,Tarjeta Crédito,SES018,91,Desktop,Safari,macOS,Email Marketing,25
+USR006,2024-01-24,09:18:55,Hub USB-C 7 puertos,Accesorios,49.99,1,49.99,Argentina,Córdoba,Córdoba,PayPal,SES019,22,Tablet,Safari,iOS,Directo,0
+USR014,2024-01-24,11:45:37,Smartphone Samsung S23,Móviles,799.99,1,799.99,Colombia,Cartagena,Bolívar,Tarjeta Crédito,SES020,54,Mobile,Chrome,Android,Google Ads,30
+USR007,2024-01-25,13:33:12,AirPods Pro 2,Audio,249.99,1,249.99,Chile,Valparaíso,Valparaíso,Transferencia,SES021,38,Mobile,Safari,iOS,Orgánico,0
+USR015,2024-01-25,16:28:46,Escritorio Ajustable,Muebles,449.99,1,449.99,Colombia,Medellín,Antioquia,Tarjeta Débito,SES022,72,Desktop,Firefox,Windows,Redes Sociales,20
+USR008,2024-01-26,08:55:23,Power Bank 20000mAh,Accesorios,45.99,2,91.98,Perú,Arequipa,Arequipa,PayPal,SES023,27,Mobile,Chrome,Android,Email Marketing,0
+USR016,2024-01-26,12:14:39,Switch Nintendo OLED,Gaming,349.99,1,349.99,Paraguay,Asunción,Asunción,Tarjeta Crédito,SES024,63,Desktop,Chrome,Windows,Directo,0
+USR009,2024-01-27,14:42:18,Pantalla Portátil 15.6,Accesorios,199.99,1,199.99,Colombia,Bucaramanga,Santander,Transferencia,SES025,45,Desktop,Edge,Windows,Google Ads,10
+USR017,2024-01-27,17:19:55,Smartwatch Apple Watch 9,Wearables,429.99,1,429.99,Bolivia,La Paz,La Paz,Tarjeta Crédito,SES026,51,Mobile,Safari,iOS,Orgánico,15
+USR010,2024-01-28,10:36:42,Estabilizador DJI Osmo,Fotografía,149.99,1,149.99,Ecuador,Guayaquil,Guayas,PayPal,SES027,39,Tablet,Chrome,Android,Redes Sociales,0
+USR018,2024-01-28,13:51:27,Drone DJI Mini 3,Fotografía,499.99,1,499.99,Costa Rica,San José,San José,Tarjeta Débito,SES028,77,Desktop,Safari,macOS,Email Marketing,25
+USR011,2024-01-29,09:24:13,Funda Laptop 13 pulgadas,Accesorios,34.99,1,34.99,Colombia,Bogotá,Bogota D.C.,Tarjeta Crédito,SES029,18,Mobile,Chrome,iOS,Directo,0
+USR019,2024-01-29,15:38:51,PlayStation 5,Gaming,499.99,1,499.99,Panamá,Ciudad de Panamá,Panamá,Transferencia,SES030,84,Desktop,Chrome,Windows,Google Ads,0
+USR012,2024-01-30,11:17:29,Ventilador USB Silencioso,Accesorios,19.99,3,59.97,Venezuela,Valencia,Carabobo,PayPal,SES031,21,Mobile,Firefox,Android,Orgánico,5
+USR020,2024-01-30,14:44:36,Proyector Epson HomeC,Electrónica,799.99,1,799.99,Honduras,Tegucigalpa,Francisco Morazán,Tarjeta Crédito,SES032,66,Desktop,Edge,Windows,Redes Sociales,30
+USR013,2024-01-31,10:29:18,Trípode Manfrotto Compact,Fotografía,79.99,1,79.99,Uruguay,Salto,Salto,Tarjeta Débito,SES033,33,Desktop,Safari,macOS,Email Marketing,0
+USR021,2024-01-31,16:52:44,Tableta Gráfica Wacom,Diseño,229.99,1,229.99,Nicaragua,Managua,Managua,PayPal,SES034,58,Desktop,Chrome,Windows,Directo,10
+USR014,2024-02-01,09:15:37,Cargador Inalámbrico 3en1,Accesorios,69.99,1,69.99,Colombia,Pereira,Risaralda,Tarjeta Crédito,SES035,26,Mobile,Chrome,Android,Google Ads,0
+USR022,2024-02-01,13:42:19,Auriculares Gaming RGB,Audio,89.99,2,179.98,El Salvador,San Salvador,San Salvador,Transferencia,SES036,44,Desktop,Firefox,Windows,Orgánico,15
+USR015,2024-02-02,11:28:53,Soporte Monitor Dual,Accesorios,59.99,1,59.99,Colombia,Manizales,Caldas,PayPal,SES037,29,Desktop,Chrome,Linux,Redes Sociales,0
+USR023,2024-02-02,15:17:26,Kindle Paperwhite,Lectores,139.99,1,139.99,Guatemala,Ciudad de Guatemala,Guatemala,Tarjeta Débito,SES038,48,Tablet,Safari,iOS,Email Marketing,5
+USR001,2024-02-03,10:44:11,Mochila Antirrobo USB,Accesorios,54.99,1,54.99,Colombia,Bogotá,Bogota D.C.,Tarjeta Crédito,SES039,24,Mobile,Chrome,Android,Directo,0
+USR024,2024-02-03,14:33:28,Xbox Series X,Gaming,499.99,1,499.99,República Dominicana,Santo Domingo,Distrito Nacional,Transferencia,SES040,81,Desktop,Edge,Windows,Google Ads,20
+USR018,2024-04-02,11:19:43,AirPods Pro 2,Audio,249.99,1,249.99,México,Monterrey,Nuevo León,Tarjeta Débito,SES041,76,Tablet,Edge,Android,Email Marketing,20
+USR012,2024-02-11,10:06:26,Adaptador USB-C HDMI,Accesorios,29.99,3,89.97,México,Ciudad de México,CDMX,Tarjeta Crédito,SES042,12,Mobile,Edge,Android,Email Marketing,25
+USR022,2024-02-06,10:11:17,Cable HDMI 2.1,Accesorios,24.99,1,24.99,Argentina,Córdoba,Córdoba,Transferencia,SES043,43,Mobile,Edge,Android,Google Ads,15
+USR003,2024-02-24,12:54:18,iPad Air,Tablets,599.99,3,1799.97,Paraguay,Asunción,Asunción,Tarjeta Débito,SES044,22,Tablet,Chrome,Android,Redes Sociales,5
+USR007,2024-03-06,11:02:29,Cámara Canon EOS R50,Fotografía,899.99,2,1799.98,Paraguay,Asunción,Asunción,Transferencia,SES045,63,Mobile,Chrome,iOS,Orgánico,15
+USR024,2024-03-15,13:10:17,Cámara GoPro Hero 11,Fotografía,399.99,1,399.99,Colombia,Bogotá,Bogota D.C.,PayPal,SES046,78,Tablet,Chrome,Android,Directo,5
+USR003,2024-03-14,19:40:30,Cámara Canon EOS R50,Fotografía,899.99,3,2699.97,Uruguay,Montevideo,Montevideo,PayPal,SES047,45,Desktop,Safari,Linux,Orgánico,5
+USR025,2024-03-16,16:13:28,Cámara Canon EOS R50,Fotografía,899.99,1,899.99,México,Ciudad de México,CDMX,Tarjeta Débito,SES048,51,Tablet,Firefox,iOS,Email Marketing,30
+USR020,2024-02-07,09:02:12,Smartwatch Apple Watch 9,Wearables,429.99,1,429.99,Colombia,Barranquilla,Atlántico,Transferencia,SES049,80,Desktop,Chrome,macOS,Directo,0
+USR019,2024-02-15,13:52:16,Cámara GoPro Hero 11,Fotografía,399.99,1,399.99,España,Barcelona,Cataluña,PayPal,SES050,29,Tablet,Safari,iOS,Orgánico,5
+USR010,2024-03-11,11:30:09,Tableta Gráfica Wacom,Diseño,229.99,1,229.99,México,Ciudad de México,CDMX,PayPal,SES051,32,Mobile,Chrome,iOS,Google Ads,0
+USR024,2024-02-24,11:07:52,Silla Gaming Ergonómica,Muebles,349.99,1,349.99,España,Madrid,Comunidad de Madrid,Tarjeta Débito,SES052,87,Desktop,Firefox,Linux,Orgánico,0
+USR029,2024-02-05,19:31:10,Impresora HP LaserJet,Oficina,299.99,3,899.97,México,Ciudad de México,CDMX,PayPal,SES053,85,Desktop,Edge,macOS,Redes Sociales,10
+USR007,2024-02-06,15:46:36,AirPods Pro 2,Audio,249.99,1,249.99,Bolivia,La Paz,La Paz,Tarjeta Débito,SES054,89,Desktop,Firefox,Windows,Google Ads,20
+USR023,2024-04-02,09:56:27,Smartwatch Apple Watch 9,Wearables,429.99,1,429.99,México,Guadalajara,Jalisco,Tarjeta Débito,SES055,26,Desktop,Safari,Windows,Directo,25
+USR015,2024-03-08,13:56:17,Cable HDMI 2.1,Accesorios,24.99,1,24.99,Perú,Lima,Lima,Transferencia,SES056,95,Tablet,Chrome,iOS,Email Marketing,15
+USR002,2024-02-29,09:59:20,Webcam Logitech C920,Accesorios,89.99,1,89.99,México,Guadalajara,Jalisco,Tarjeta Crédito,SES057,16,Mobile,Edge,iOS,Orgánico,5
+USR026,2024-03-02,10:56:02,Stand Laptop Plegable,Accesorios,34.99,1,34.99,Colombia,Manizales,Caldas,Transferencia,SES058,41,Desktop,Chrome,Linux,Email Marketing,25
+USR004,2024-03-19,13:42:25,Hub USB-C 7 puertos,Accesorios,49.99,1,49.99,Chile,Santiago,Región Metropolitana,PayPal,SES059,58,Desktop,Chrome,macOS,Email Marketing,0
+USR014,2024-03-30,16:51:25,Teclado Mecánico RGB,Accesorios,149.99,2,299.98,Colombia,Manizales,Caldas,Tarjeta Crédito,SES060,49,Tablet,Chrome,iOS,Google Ads,15
+USR013,2024-03-09,09:45:34,PlayStation 5,Gaming,499.99,1,499.99,Costa Rica,San José,San José,PayPal,SES061,66,Tablet,Safari,Android,Directo,25
+USR016,2024-03-24,19:29:24,Power Bank 20000mAh,Accesorios,45.99,3,137.97,Chile,Santiago,Región Metropolitana,PayPal,SES062,62,Tablet,Firefox,Android,Directo,30
+USR025,2024-03-06,09:58:41,SSD Samsung 1TB,Almacenamiento,119.99,2,239.98,Colombia,Cartagena,Bolívar,PayPal,SES063,70,Desktop,Edge,macOS,Redes Sociales,10
+USR008,2024-03-13,09:24:18,Impresora HP LaserJet,Oficina,299.99,2,599.98,Argentina,Córdoba,Córdoba,PayPal,SES064,46,Mobile,Edge,Android,Orgánico,0
+USR011,2024-02-27,16:20:10,Altavoz JBL Flip 6,Audio,129.99,2,259.98,España,Madrid,Comunidad de Madrid,Tarjeta Débito,SES065,80,Tablet,Edge,iOS,Orgánico,0
+USR016,2024-03-14,10:26:17,Teclado Inalámbrico Apple,Accesorios,99.99,1,99.99,Chile,Valparaíso,Valparaíso,PayPal,SES066,20,Mobile,Chrome,Android,Email Marketing,20
+USR019,2024-03-02,09:06:47,Memoria RAM 32GB DDR5,Componentes,149.99,3,449.97,Colombia,Manizales,Caldas,Transferencia,SES067,48,Tablet,Edge,Android,Redes Sociales,25
+USR024,2024-03-23,16:53:49,Cable HDMI 2.1,Accesorios,24.99,1,24.99,España,Madrid,Comunidad de Madrid,Tarjeta Crédito,SES068,94,Tablet,Firefox,Android,Directo,0
+USR004,2024-02-19,09:29:44,SSD Samsung 1TB,Almacenamiento,119.99,1,119.99,Colombia,Pereira,Risaralda,Transferencia,SES069,22,Tablet,Chrome,Android,Google Ads,0
+USR012,2024-03-18,13:45:04,Impresora HP LaserJet,Oficina,299.99,1,299.99,Ecuador,Guayaquil,Guayas,Transferencia,SES070,92,Desktop,Edge,Windows,Orgánico,15
+USR022,2024-04-02,10:14:55,Power Bank 20000mAh,Accesorios,45.99,1,45.99,Paraguay,Asunción,Asunción,Tarjeta Crédito,SES071,51,Mobile,Chrome,Android,Redes Sociales,0
+USR011,2024-03-26,08:53:55,Silla Gaming Ergonómica,Muebles,349.99,3,1049.97,Panamá,Ciudad de Panamá,Panamá,PayPal,SES072,17,Tablet,Chrome,Android,Orgánico,10
+USR003,2024-03-29,11:28:03,Hub USB-C 7 puertos,Accesorios,49.99,1,49.99,Argentina,Córdoba,Córdoba,PayPal,SES073,53,Tablet,Firefox,Android,Orgánico,25
+USR003,2024-02-07,13:32:54,Proyector Epson HomeC,Electrónica,799.99,1,799.99,Colombia,Pereira,Risaralda,Transferencia,SES074,12,Desktop,Chrome,macOS,Email Marketing,15
+USR007,2024-03-21,19:38:15,Teclado Inalámbrico Apple,Accesorios,99.99,3,299.97,Colombia,Pereira,Risaralda,PayPal,SES075,51,Desktop,Safari,macOS,Directo,5
+USR019,2024-02-17,16:07:46,Altavoz JBL Flip 6,Audio,129.99,1,129.99,Colombia,Bogotá,Bogota D.C.,PayPal,SES076,62,Tablet,Chrome,Android,Orgánico,15
+USR023,2024-02-17,18:58:02,Smartphone Samsung S23,Móviles,799.99,1,799.99,Argentina,Buenos Aires,Buenos Aires,Tarjeta Débito,SES077,24,Tablet,Safari,Android,Redes Sociales,0
+USR006,2024-02-28,16:49:04,Switch Nintendo OLED,Gaming,349.99,1,349.99,Panamá,Ciudad de Panamá,Panamá,Tarjeta Débito,SES078,48,Desktop,Chrome,Linux,Email Marketing,0
+USR016,2024-03-14,12:18:45,Tableta Gráfica Wacom,Diseño,229.99,1,229.99,Paraguay,Asunción,Asunción,Tarjeta Crédito,SES079,59,Desktop,Edge,Windows,Directo,0
+USR009,2024-02-15,15:02:10,Impresora HP LaserJet,Oficina,299.99,1,299.99,Chile,Santiago,Región Metropolitana,PayPal,SES080,41,Desktop,Edge,Windows,Google Ads,25
+USR026,2024-04-04,08:40:19,Disco Duro Externo 2TB,Almacenamiento,89.99,1,89.99,Ecuador,Guayaquil,Guayas,Tarjeta Débito,SES081,35,Desktop,Chrome,macOS,Google Ads,5
+USR015,2024-02-05,11:35:00,Silla Gaming Ergonómica,Muebles,349.99,3,1049.97,Uruguay,Montevideo,Montevideo,Tarjeta Crédito,SES082,36,Tablet,Chrome,iOS,Redes Sociales,25
+USR019,2024-03-28,12:09:25,MacBook Pro M2,Electrónica,2499.99,3,7499.97,Colombia,Cali,Valle del Cauca,Tarjeta Crédito,SES083,58,Desktop,Firefox,Linux,Redes Sociales,0
+USR004,2024-03-20,15:12:20,Router TP-Link AX3000,Redes,129.99,1,129.99,Colombia,Bucaramanga,Santander,Transferencia,SES084,21,Tablet,Safari,iOS,Redes Sociales,10
+USR020,2024-03-26,15:05:57,MacBook Pro M2,Electrónica,2499.99,1,2499.99,Colombia,Pereira,Risaralda,PayPal,SES085,91,Desktop,Safari,Windows,Email Marketing,0
+USR003,2024-02-14,16:47:50,Monitor Curvo Samsung 32,Electrónica,599.99,2,1199.98,Ecuador,Quito,Pichincha,PayPal,SES086,50,Mobile,Safari,Android,Orgánico,0
+USR006,2024-02-21,10:37:01,Router TP-Link AX3000,Redes,129.99,1,129.99,Chile,Santiago,Región Metropolitana,PayPal,SES087,43,Desktop,Safari,Linux,Email Marketing,0
+USR011,2024-03-10,14:43:44,Smartwatch Apple Watch 9,Wearables,429.99,1,429.99,Colombia,Bucaramanga,Santander,Tarjeta Crédito,SES088,39,Desktop,Chrome,Linux,Orgánico,5
+USR002,2024-02-25,16:00:21,Cámara GoPro Hero 11,Fotografía,399.99,1,399.99,Ecuador,Guayaquil,Guayas,PayPal,SES089,30,Mobile,Edge,Android,Google Ads,25
+USR024,2024-03-26,08:14:58,Lámpara LED Escritorio,Iluminación,39.99,3,119.97,Uruguay,Montevideo,Montevideo,Transferencia,SES090,47,Tablet,Edge,iOS,Google Ads,0
+USR004,2024-03-18,11:23:43,Adaptador USB-C HDMI,Accesorios,29.99,1,29.99,Colombia,Medellín,Antioquia,Tarjeta Crédito,SES091,65,Desktop,Safari,macOS,Directo,0
+USR003,2024-02-24,11:47:57,Monitor Curvo Samsung 32,Electrónica,599.99,2,1199.98,México,Ciudad de México,CDMX,Transferencia,SES092,83,Desktop,Firefox,Windows,Redes Sociales,25
+USR012,2024-02-05,19:03:25,Micrófono Blue Yeti,Audio,129.99,1,129.99,Colombia,Cali,Valle del Cauca,PayPal,SES093,43,Tablet,Chrome,Android,Orgánico,0
+USR029,2024-02-17,16:42:30,Switch Nintendo OLED,Gaming,349.99,1,349.99,Bolivia,La Paz,La Paz,Transferencia,SES094,39,Mobile,Firefox,iOS,Google Ads,30
+USR022,2024-02-29,08:40:06,Cámara Canon EOS R50,Fotografía,899.99,1,899.99,Argentina,Buenos Aires,Buenos Aires,Tarjeta Débito,SES095,71,Mobile,Safari,iOS,Orgánico,15
+USR008,2024-03-27,15:09:00,SSD Samsung 1TB,Almacenamiento,119.99,2,239.98,Paraguay,Asunción,Asunción,Transferencia,SES096,27,Mobile,Chrome,Android,Directo,25
+USR023,2024-04-02,15:46:55,Escritorio Ajustable,Muebles,449.99,1,449.99,Colombia,Manizales,Caldas,Tarjeta Débito,SES097,84,Desktop,Chrome,Linux,Directo,10
+USR018,2024-03-14,13:55:26,Altavoz JBL Flip 6,Audio,129.99,1,129.99,Argentina,Córdoba,Córdoba,PayPal,SES098,78,Tablet,Chrome,Android,Directo,10
+USR020,2024-02-24,15:20:19,Drone DJI Mini 3,Fotografía,499.99,1,499.99,Ecuador,Quito,Pichincha,Transferencia,SES099,57,Desktop,Firefox,Windows,Redes Sociales,0
+USR016,2024-03-11,09:12:38,Smartwatch Apple Watch 9,Wearables,429.99,1,429.99,Argentina,Córdoba,Córdoba,Tarjeta Crédito,SES100,77,Tablet,Safari,iOS,Orgánico,0
+USR018,2024-03-11,19:20:45,Impresora HP LaserJet,Oficina,299.99,1,299.99,Colombia,Manizales,Caldas,Transferencia,SES101,45,Tablet,Chrome,Android,Email Marketing,0
+USR008,2024-03-03,09:59:08,Cable HDMI 2.1,Accesorios,24.99,1,24.99,Colombia,Pereira,Risaralda,Transferencia,SES102,41,Desktop,Firefox,Windows,Directo,10
+USR021,2024-02-07,08:55:41,Cámara GoPro Hero 11,Fotografía,399.99,2,799.98,Argentina,Buenos Aires,Buenos Aires,Tarjeta Crédito,SES103,39,Desktop,Safari,Linux,Google Ads,20
+USR017,2024-02-11,16:44:05,Tableta Gráfica Wacom,Diseño,229.99,1,229.99,Costa Rica,San José,San José,PayPal,SES104,67,Tablet,Firefox,iOS,Directo,0
+USR012,2024-03-26,19:07:43,Micrófono Blue Yeti,Audio,129.99,2,259.98,Paraguay,Asunción,Asunción,Tarjeta Crédito,SES105,13,Desktop,Firefox,Windows,Redes Sociales,0
+USR019,2024-02-25,13:01:40,Auriculares Gaming RGB,Audio,89.99,2,179.98,Ecuador,Quito,Pichincha,Tarjeta Crédito,SES106,92,Desktop,Edge,macOS,Email Marketing,5
+USR015,2024-03-30,13:36:50,Laptop Dell XPS 13,Electrónica,1299.99,2,2599.98,Paraguay,Asunción,Asunción,Tarjeta Débito,SES107,27,Mobile,Safari,iOS,Redes Sociales,20
+USR011,2024-04-01,16:49:53,Kindle Paperwhite,Lectores,139.99,2,279.98,Costa Rica,San José,San José,Transferencia,SES108,13,Tablet,Chrome,iOS,Redes Sociales,0
+USR027,2024-04-01,10:26:43,Disco Duro Externo 2TB,Almacenamiento,89.99,3,269.97,Venezuela,Caracas,Distrito Capital,Tarjeta Débito,SES109,93,Mobile,Chrome,iOS,Google Ads,15
+USR009,2024-02-13,12:37:26,Proyector Epson HomeC,Electrónica,799.99,1,799.99,Ecuador,Quito,Pichincha,Tarjeta Crédito,SES110,43,Mobile,Firefox,Android,Redes Sociales,0
+USR012,2024-02-20,16:58:19,Stand Laptop Plegable,Accesorios,34.99,1,34.99,Argentina,Córdoba,Córdoba,Tarjeta Débito,SES111,73,Desktop,Safari,Linux,Orgánico,10
+USR002,2024-03-16,18:10:49,Webcam Logitech C920,Accesorios,89.99,1,89.99,Chile,Valparaíso,Valparaíso,PayPal,SES112,66,Desktop,Edge,macOS,Google Ads,30
+USR007,2024-02-24,15:58:54,Smartwatch Apple Watch 9,Wearables,429.99,1,429.99,Colombia,Cartagena,Bolívar,PayPal,SES113,33,Mobile,Firefox,iOS,Google Ads,5
+USR015,2024-02-04,17:04:39,Escritorio Ajustable,Muebles,449.99,1,449.99,México,Guadalajara,Jalisco,Tarjeta Crédito,SES114,86,Mobile,Safari,iOS,Email Marketing,5
+USR015,2024-03-25,08:59:11,Impresora HP LaserJet,Oficina,299.99,1,299.99,Bolivia,La Paz,La Paz,Tarjeta Crédito,SES115,77,Tablet,Firefox,Android,Google Ads,15
+USR010,2024-02-07,17:45:30,Monitor LG 27 4K,Electrónica,449.99,1,449.99,Colombia,Barranquilla,Atlántico,Tarjeta Crédito,SES116,21,Mobile,Edge,iOS,Directo,20
+USR006,2024-03-20,08:41:58,Drone DJI Mini 3,Fotografía,499.99,2,999.98,Colombia,Cartagena,Bolívar,Transferencia,SES117,48,Tablet,Chrome,iOS,Redes Sociales,30
+USR026,2024-02-26,11:25:32,Drone DJI Mini 3,Fotografía,499.99,1,499.99,Ecuador,Guayaquil,Guayas,Tarjeta Crédito,SES118,77,Tablet,Edge,Android,Orgánico,0
+USR004,2024-03-14,19:33:19,Auriculares Gaming RGB,Audio,89.99,1,89.99,Ecuador,Guayaquil,Guayas,PayPal,SES119,16,Mobile,Chrome,iOS,Orgánico,0
+USR020,2024-02-26,14:20:36,Disco Duro Externo 2TB,Almacenamiento,89.99,2,179.98,Ecuador,Quito,Pichincha,Tarjeta Débito,SES120,92,Desktop,Firefox,Linux,Email Marketing,25
+USR014,2024-03-18,17:56:07,Monitor LG 27 4K,Electrónica,449.99,1,449.99,Colombia,Medellín,Antioquia,Tarjeta Débito,SES121,79,Tablet,Firefox,iOS,Redes Sociales,0
+USR017,2024-03-03,14:52:13,Stand Laptop Plegable,Accesorios,34.99,1,34.99,México,Guadalajara,Jalisco,PayPal,SES122,48,Tablet,Firefox,Android,Orgánico,0
+USR017,2024-02-29,15:58:02,Laptop Dell XPS 13,Electrónica,1299.99,1,1299.99,México,Guadalajara,Jalisco,Tarjeta Débito,SES123,51,Desktop,Chrome,macOS,Google Ads,0
+USR008,2024-03-25,09:26:46,Power Bank 20000mAh,Accesorios,45.99,1,45.99,Argentina,Buenos Aires,Buenos Aires,Tarjeta Débito,SES124,69,Tablet,Firefox,iOS,Orgánico,5
+USR018,2024-02-29,16:56:20,Stand Laptop Plegable,Accesorios,34.99,1,34.99,Argentina,Buenos Aires,Buenos Aires,Tarjeta Débito,SES125,11,Mobile,Safari,Android,Redes Sociales,10
+USR029,2024-02-26,17:11:32,Webcam Logitech C920,Accesorios,89.99,2,179.98,México,Guadalajara,Jalisco,Tarjeta Débito,SES126,76,Tablet,Chrome,iOS,Orgánico,0
+USR029,2024-02-26,14:05:01,Drone DJI Mini 3,Fotografía,499.99,1,499.99,Chile,Santiago,Región Metropolitana,Transferencia,SES127,38,Tablet,Edge,Android,Redes Sociales,30
+USR021,2024-04-01,16:19:38,Cámara Canon EOS R50,Fotografía,899.99,1,899.99,Uruguay,Montevideo,Montevideo,PayPal,SES128,18,Tablet,Firefox,Android,Directo,10
+USR017,2024-02-04,14:00:15,Memoria RAM 32GB DDR5,Componentes,149.99,3,449.97,Colombia,Pereira,Risaralda,Tarjeta Débito,SES129,92,Desktop,Edge,macOS,Orgánico,25
+USR029,2024-02-07,08:05:20,Drone DJI Mini 3,Fotografía,499.99,1,499.99,Colombia,Manizales,Caldas,Tarjeta Débito,SES130,62,Mobile,Firefox,Android,Redes Sociales,10
+USR009,2024-04-04,10:05:55,Silla Gaming Ergonómica,Muebles,349.99,3,1049.97,Colombia,Manizales,Caldas,Tarjeta Débito,SES131,71,Mobile,Chrome,iOS,Email Marketing,10
+USR027,2024-02-28,13:46:16,Teclado Mecánico RGB,Accesorios,149.99,1,149.99,España,Madrid,Comunidad de Madrid,Transferencia,SES132,53,Tablet,Chrome,Android,Google Ads,5
+USR021,2024-04-03,19:57:34,Router TP-Link AX3000,Redes,129.99,1,129.99,Colombia,Pereira,Risaralda,Tarjeta Crédito,SES133,63,Tablet,Safari,Android,Email Marketing,5
+USR009,2024-03-10,18:46:46,Disco Duro Externo 2TB,Almacenamiento,89.99,1,89.99,Panamá,Ciudad de Panamá,Panamá,Transferencia,SES134,85,Mobile,Safari,iOS,Email Marketing,0
+USR023,2024-04-01,16:25:50,Escritorio Ajustable,Muebles,449.99,1,449.99,Perú,Lima,Lima,Tarjeta Crédito,SES135,49,Tablet,Chrome,Android,Redes Sociales,0
+USR023,2024-02-28,19:50:53,Disco Duro Externo 2TB,Almacenamiento,89.99,1,89.99,Venezuela,Caracas,Distrito Capital,Transferencia,SES136,36,Mobile,Edge,iOS,Email Marketing,10
+USR025,2024-02-29,15:52:29,Impresora HP LaserJet,Oficina,299.99,1,299.99,Colombia,Bucaramanga,Santander,Tarjeta Débito,SES137,85,Mobile,Firefox,Android,Orgánico,0
+USR026,2024-02-06,12:57:06,Lámpara LED Escritorio,Iluminación,39.99,1,39.99,Colombia,Pereira,Risaralda,Transferencia,SES138,47,Tablet,Firefox,Android,Redes Sociales,30
+USR028,2024-02-14,09:30:52,Disco Duro Externo 2TB,Almacenamiento,89.99,1,89.99,Paraguay,Asunción,Asunción,Tarjeta Crédito,SES139,22,Tablet,Firefox,Android,Directo,15
+USR016,2024-03-19,12:39:13,Teclado Mecánico RGB,Accesorios,149.99,2,299.98,Ecuador,Quito,Pichincha,PayPal,SES140,64,Tablet,Chrome,iOS,Google Ads,25
